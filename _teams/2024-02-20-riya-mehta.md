@@ -2,7 +2,7 @@
 title: Riya Mehta
 date: 2024-02-20
 subtitle: Health Data Scientist, AI/ML Student, & Traveler
-image: /images/people/riya.jpg
+image: /images/people/riya.png
 ---
 
 Hi, my name is Riya, and I’m a student at Dartmouth pursuing my Master’s in Health Data Science! I was born and raised in Atlanta, GA, and completed my BS in Biology and Quantitative Sciences from Emory University. I’m so excited to have joined In Vivo Group as a Data Scientist and am looking forward to contribute to the applications of machine learning to the field of biotechnology!
