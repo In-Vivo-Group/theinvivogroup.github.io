@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Automating The Web: Browser Agents for Web Automation
+title:  Automating The Web - Browser Agents for Web Automation
 description: Creating browser agents for robotic process automation (RPA) and performant web research. 
 date:   2024-05-02 15:01:35 +0300
 image:  '/images/general/browser-agents.jpg'
